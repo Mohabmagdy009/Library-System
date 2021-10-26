@@ -1,0 +1,86 @@
+The book TOM_SAWYER has been added to the library
+
+The book Intro_to_C_Programming has been added to the library
+
+The book Huckleberry_Finn is not currently in the library.
+
+The book Huckleberry_Finn has been added to the library
+
+The book Guns,Germs,Steel has been added to the library
+
+The book Java5.0 has been added to the library
+
+List of all books by Twain
+TOM_SAWYER
+Huckleberry_Finn
+
+List of all books on computer_science
+Intro_to_C_Programming
+Java5.0
+
+List of all books on Computr_Science
+No books from subject Computr_Science.
+
+The book Intro_to_C_Programming has been removed from the library.
+
+List of all books by King
+No books from author King.
+
+The book TOM_SAWYER has been added to the library
+
+The book Intro_to_C_Programming has been added to the library
+
+The book Huckleberry_Finn is not currently in the library.
+
+The book Huckleberry_Finn has been added to the library
+
+The book Guns,Germs,Steel has been added to the library
+
+The book Java5.0 has been added to the library
+
+List of all books by Twain
+TOM_SAWYER
+Huckleberry_Finn
+
+List of all books on computer_science
+Intro_to_C_Programming
+Java5.0
+
+List of all books on Computr_Science
+No books from subject Computr_Science.
+
+The book Intro_to_C_Programming has been removed from the library.
+
+List of all books by King
+No books from author King.
+
+The book TOM_SAWYER has been added to the library
+
+The book Intro_to_C_Programming has been added to the library
+
+The book Huckleberry_Finn is not currently in the library.
+
+The book Huckleberry_Finn has been added to the library
+
+The book Guns,Germs,Steel has been added to the library
+
+The book Java5.0 has been added to the library
+
+List of all books by Twain
+TOM_SAWYER
+Huckleberry_Finn
+
+List of all books on computer_science
+Intro_to_C_Programming
+Java5.0
+
+List of all books on Computr_Science
+No books from subject Computr_Science.
+
+The book Intro_to_C_Programming has been removed from the library.
+
+List of all books by King
+No books from author King.
+
+The book Mohab has been added to the library
+

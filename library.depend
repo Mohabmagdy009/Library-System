@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545062271 source:c:\users\mohab\desktop\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
